@@ -1,27 +1,31 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Sara Adel</span></h1>
+<h1 align="center">👋 Hey there, I'm <span>Sara Adel</span></h1>
 
 <p align="center">
-  🚀 <b>Front-End Developer</b> passionate about creating clean, responsive, and interactive web experiences.<br/>
-  I love turning creative ideas into real-world projects that blend functionality with elegant design.
+  <img src="https://img.shields.io/badge/Front--End%20Developer-%2300bfff?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Passionate about building clean, responsive, and interactive web experiences 💻<br/>
+  I love turning creative ideas into elegant and functional projects 🌸
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🌱 Currently learning **React.js**, **Next.js**, and advanced **Front-End concepts**  
-- 🎓 Trained at **Information Technology Institute (ITI)** & **Route Academy**  
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, Bootstrap, Tailwind CSS**  
-- 📫 Reach me at **[saraadelfarid990@gmail.com](mailto:saraadelfarid990@gmail.com)**  
+- 🌱 Currently learning **React.js**, **Next.js**, and advanced **Front-End concepts**
+- 🎓 Trained at **Information Technology Institute (ITI)** & **Route Academy**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, Bootstrap, Tailwind CSS**
+- 📫 Reach me at **[saraadelfarid990@gmail.com](mailto:saraadelfarid990@gmail.com)**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sara-adel-1b2027361/) | [GitHub](https://github.com/Saraadel2303)
 
 ---
 
-## 💼 Featured Projects  
+## 💼 Featured Projects
 
 ### 🌌 Space Tourism Website  
-A fully responsive multi-page website built with **React.js** & **Tailwind CSS**, inspired by Frontend Mentor’s Space Tourism challenge.  
-🎨 Features sleek animations, modern layout, and responsive design.  
+A fully responsive multi-page website built with **React.js** & **Tailwind CSS**, inspired by Frontend Mentor’s challenge.  
+🎨 Sleek animations, modern layout, and dynamic design.  
 🔗 [Live Demo](https://space-sooty-two.vercel.app) | 💻 [Repository](https://github.com/Saraadel2303/space-tourism)
 
 ---
@@ -33,14 +37,14 @@ A blog-style web app built with **React.js**, featuring post creation, updates, 
 ---
 
 ### ✅ To-Do App  
-A simple and interactive task manager built with **HTML, CSS, and JavaScript**.  
-🎯 Features task creation, completion tracking, and dynamic filtering.  
+An interactive task manager built with **HTML, CSS, and JavaScript**.  
+🎯 Add, complete, and filter your daily tasks.  
 💻 [Repository](https://github.com/Saraadel2303/Todo-js)
 
 ---
 
 ### 🍽️ Mealify Website  
-A modern restaurant landing page built with **HTML**, **CSS**, and **Bootstrap** focusing on a clean layout and responsiveness.  
+A modern restaurant landing page built with **HTML**, **CSS**, and **Bootstrap**, focusing on clean UI and responsiveness.  
 💻 [Repository](https://github.com/Saraadel2303/Mealify)
 
 ---
@@ -49,6 +53,12 @@ A modern restaurant landing page built with **HTML**, **CSS**, and **Bootstrap**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,bootstrap,tailwind,git,github,vercel,figma,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Design%20Lover-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-32cd32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-ffa500?style=for-the-badge" />
 </p>
 
 ---
@@ -73,7 +83,20 @@ A modern restaurant landing page built with **HTML**, **CSS**, and **Bootstrap**
 
 ---
 
-<h3 align="center">⭐️ Always learning — always creating something new 🚀</h3>
+## 📬 Contact Me  
 
+<p align="center">
+  <a href="mailto:saraadelfarid990@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sara-adel-1b2027361/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Saraadel2303" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
- 
+---
+
+<h3 align="center">✨ Always learning — always creating something new 🚀</h3>

@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hey there, I'm <span>Sara Adel</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Sara Adel</span></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front--End%20Developer-%2300bfff?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=300&lines=FRONT-END+DEVELOPER" alt="Typing SVG" />
 </p>
 
 <p align="center">
